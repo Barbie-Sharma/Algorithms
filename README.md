@@ -1,2 +1,3 @@
 # Algorithms
-Algorithms that I studied theoritically.
+Algorithms studied in Uni course
+
